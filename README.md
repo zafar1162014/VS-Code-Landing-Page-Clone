@@ -31,7 +31,9 @@
 </ul>
 
 <h2>How to Use</h2>
-<p>Click the theme toggle button to switch between light and dark modes. Explore different sections of the page to see how various elements respond to interactions.</p>
-
-<h2>Contributions</h2>
-<p>Feel free to fork this repository and make contributions. Pull requests are welcome!</p>
+<p>To use the VS Code Landing Page Clone:</p>
+<ul>
+    <li><strong>Theme Toggle:</strong> Click the moon or sun icon at the top right of the page to switch between dark and light modes. The page will automatically adjust the colors to suit the selected theme.</li>
+    <li><strong>Navigation:</strong> Explore different sections by clicking on the navigation links at the top. The layout is responsive, so it will adapt based on your screen size.</li>
+    <li><strong>Interactive Elements:</strong> Hover over buttons and links to see interactive effects. Images and buttons will change appearance when clicked or hovered over.</li>
+</ul>
